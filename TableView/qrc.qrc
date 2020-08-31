@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="ac0">res/active.png</file>
+        <file alias="ac1">res/active_timeout.png</file>
+    </qresource>
+</RCC>
